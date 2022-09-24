@@ -6,7 +6,6 @@
 					str = str .. "," .. arguments[i]
 				else
 					str = str .. arguments[i]
-
 				end
 			end
 			
