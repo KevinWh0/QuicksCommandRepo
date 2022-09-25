@@ -22,4 +22,4 @@ You can find the plugin [Here](https://www.roblox.com/library/10469484730/Quicks
 
 - Please include a comma at the end of your final curly bracket
 
-Need any more help? Take a look at my example quick [ezprint](https://github.com/KevinWh0/QuicksCommandRepo/tree/main/ezprint) for any help. If that doesnt help feel free to ask in an [issue](https://github.com/KevinWh0/QuicksCommandRepo/issues/new).
+Need any more help? Take a look at my example quick [ezprint](https://github.com/KevinWh0/QuicksCommandRepo/tree/main/plugins/ezprint) for any help. If that doesnt help feel free to ask in an [issue](https://github.com/KevinWh0/QuicksCommandRepo/issues/new).
